@@ -1,0 +1,1226 @@
+{"level":30,"time":"2023-09-20T09:37:01.281Z","pid":9472,"hostname":"gOssila","msg":"Listening on 49362"}
+{"level":30,"time":"2023-09-20T09:37:01.555Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:01.555Z","pid":9472,"hostname":"gOssila","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:01.557Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:01.557Z","pid":9472,"hostname":"gOssila","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:01.560Z","pid":9472,"hostname":"gOssila","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-09-20T09:37:01.804Z","pid":9472,"hostname":"gOssila","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-09-20T09:37:01.807Z","pid":9472,"hostname":"gOssila","msg":"Start of node method newContext"}
+{"level":30,"time":"2023-09-20T09:37:01.807Z","pid":9472,"hostname":"gOssila","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-09-20T09:37:01.807Z","pid":9472,"hostname":"gOssila","msg":"Trace file: "}
+{"level":30,"time":"2023-09-20T09:37:01.817Z","pid":9472,"hostname":"gOssila","msg":"Changed active context"}
+{"level":30,"time":"2023-09-20T09:37:01.817Z","pid":9472,"hostname":"gOssila","msg":"End of node method newContext"}
+{"level":30,"time":"2023-09-20T09:37:01.820Z","pid":9472,"hostname":"gOssila","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-09-20T09:37:01.820Z","pid":9472,"hostname":"gOssila","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-09-20T09:37:01.922Z","pid":9472,"hostname":"gOssila","msg":"Video path: undefined"}
+{"level":30,"time":"2023-09-20T09:37:01.922Z","pid":9472,"hostname":"gOssila","msg":"Changed active page"}
+{"level":30,"time":"2023-09-20T09:37:03.674Z","pid":9472,"hostname":"gOssila","msg":"End of node method newPage"}
+{"level":30,"time":"2023-09-20T09:37:03.678Z","pid":9472,"hostname":"gOssila","msg":"Start of node method click"}
+{"level":30,"time":"2023-09-20T09:37:03.679Z","pid":9472,"hostname":"gOssila","msg":"Strict mode is enabled, find Locator with //button[@class=\"login-type-btn guest\"] in page."}
+{"level":30,"time":"2023-09-20T09:37:04.729Z","pid":9472,"hostname":"gOssila","msg":"End of node method click"}
+{"level":30,"time":"2023-09-20T09:37:04.731Z","pid":9472,"hostname":"gOssila","msg":"Start of node method click"}
+{"level":30,"time":"2023-09-20T09:37:04.731Z","pid":9472,"hostname":"gOssila","msg":"Strict mode is enabled, find Locator with //button[@class=\"accept-btn\"] in page."}
+{"level":30,"time":"2023-09-20T09:37:04.789Z","pid":9472,"hostname":"gOssila","msg":"End of node method click"}
+{"level":30,"time":"2023-09-20T09:37:04.791Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getElements"}
+{"level":30,"time":"2023-09-20T09:37:04.792Z","pid":9472,"hostname":"gOssila","msg":"Strict mode is disabled, return Locator: //div[@class=\"container-fluid bg-block py-3 px-3 px-md-5 rounded-bottom-0\"] in page."}
+{"level":30,"time":"2023-09-20T09:37:04.792Z","pid":9472,"hostname":"gOssila","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2023-09-20T09:37:04.803Z","pid":9472,"hostname":"gOssila","msg":"Found 8 elements."}
+{"level":30,"time":"2023-09-20T09:37:04.803Z","pid":9472,"hostname":"gOssila","msg":"Find 0 Locator in page."}
+{"level":30,"time":"2023-09-20T09:37:04.803Z","pid":9472,"hostname":"gOssila","msg":"End of node method getElements"}
+{"level":30,"time":"2023-09-20T09:37:04.803Z","pid":9472,"hostname":"gOssila","msg":"Find 1 Locator in page."}
+{"level":30,"time":"2023-09-20T09:37:04.803Z","pid":9472,"hostname":"gOssila","msg":"Find 2 Locator in page."}
+{"level":30,"time":"2023-09-20T09:37:04.803Z","pid":9472,"hostname":"gOssila","msg":"Find 3 Locator in page."}
+{"level":30,"time":"2023-09-20T09:37:04.803Z","pid":9472,"hostname":"gOssila","msg":"Find 4 Locator in page."}
+{"level":30,"time":"2023-09-20T09:37:04.803Z","pid":9472,"hostname":"gOssila","msg":"Find 5 Locator in page."}
+{"level":30,"time":"2023-09-20T09:37:04.803Z","pid":9472,"hostname":"gOssila","msg":"Find 6 Locator in page."}
+{"level":30,"time":"2023-09-20T09:37:04.803Z","pid":9472,"hostname":"gOssila","msg":"Find 7 Locator in page."}
+{"level":30,"time":"2023-09-20T09:37:04.807Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+{"level":30,"time":"2023-09-20T09:37:04.807Z","pid":9472,"hostname":"gOssila","msg":"Strict mode is enabled, find Locator with //div[@class=\"container-fluid bg-block py-3 px-3 px-md-5 rounded-bottom-0\"][2]//h2 in page."}
+{"level":30,"time":"2023-09-20T09:37:09.368Z","pid":9472,"hostname":"gOssila","msg":"Removed page=b4388876-4473-43b3-905a-ab3b94aca45c from context=a0b2ca45-ee11-48a7-84f4-a1a9793d6186 page stack"}
+{"level":50,"time":"2023-09-20T09:37:09.369Z","pid":9472,"hostname":"gOssila","err":{"type":"Error","message":"locator.elementHandle: Target closed\n=========================== logs ===========================\nwaiting for locator('xpath=//div[@class=\"container-fluid bg-block py-3 px-3 px-md-5 rounded-bottom-0\"][2]//h2')\n============================================================","stack":"locator.elementHandle: Target closed\n=========================== logs ===========================\nwaiting for locator('xpath=//div[@class=\"container-fluid bg-block py-3 px-3 px-md-5 rounded-bottom-0\"][2]//h2')\n============================================================\n    at getTextContent (C:\\Python\\Lib\\site-packages\\Browser\\wrapper\\index.js:8749:33)\n    at getText (C:\\Python\\Lib\\site-packages\\Browser\\wrapper\\index.js:8763:21)\n    at async PlaywrightServer.getText (C:\\Python\\Lib\\site-packages\\Browser\\wrapper\\index.js:9984:28)","name":"Error"},"msg":"locator.elementHandle: Target closed\n=========================== logs ===========================\nwaiting for locator('xpath=//div[@class=\"container-fluid bg-block py-3 px-3 px-md-5 rounded-bottom-0\"][2]//h2')\n============================================================"}
+{"level":30,"time":"2023-09-20T09:37:09.370Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Target closed
+=========================== logs ===========================
+waiting for locator('xpath=//div[@class="container-fluid bg-block py-3 px-3 px-md-5 rounded-bottom-0"][2]//h2')
+============================================================
+    at getTextContent (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8749:33)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8763:21)
+    at async PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.386Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.386Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.401Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.401Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.415Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.415Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.428Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.428Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.442Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.442Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.455Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.455Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.468Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.468Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.481Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.481Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.493Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.493Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.505Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.506Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.518Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.518Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.530Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.530Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.541Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.541Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.553Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.553Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.564Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.565Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.576Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.576Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.588Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.588Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.600Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.600Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.611Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.611Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.624Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.624Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.637Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.637Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.649Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.650Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.662Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.662Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.674Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.674Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.687Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.688Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.700Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.700Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.713Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.713Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.726Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.726Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.739Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.739Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.752Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.752Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.765Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.765Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.778Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.778Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.791Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.791Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.805Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.805Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.818Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.818Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.830Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.831Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.843Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.843Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.856Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.856Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.869Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.869Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.881Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.881Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.895Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.895Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.909Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.910Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+{"level":30,"time":"2023-09-20T09:37:09.922Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.922Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{"level":30,"time":"2023-09-20T09:37:09.934Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.935Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+{"level":30,"time":"2023-09-20T09:37:09.948Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.948Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+{"level":30,"time":"2023-09-20T09:37:09.962Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.962Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.976Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.976Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:09.991Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:09.991Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.005Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.006Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.018Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.018Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+{"level":30,"time":"2023-09-20T09:37:10.031Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.032Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.046Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.046Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.061Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.061Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.076Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.076Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.090Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.090Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.104Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.105Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.118Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.118Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.131Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.132Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.145Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.145Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.160Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.160Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.173Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.174Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.188Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.188Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.202Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.202Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.215Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+{"level":30,"time":"2023-09-20T09:37:10.215Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.227Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+{"level":30,"time":"2023-09-20T09:37:10.227Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.239Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+{"level":30,"time":"2023-09-20T09:37:10.239Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.252Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+{"level":30,"time":"2023-09-20T09:37:10.252Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.264Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.264Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.276Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.276Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.289Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.289Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.304Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.304Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.318Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.318Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.332Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.332Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+{"level":30,"time":"2023-09-20T09:37:10.346Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.346Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.361Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+{"level":30,"time":"2023-09-20T09:37:10.361Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at findLocator (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8141:3)
+    at getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8760:25)
+    at PlaywrightServer.getText (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.374Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getText"}
+{"level":30,"time":"2023-09-20T09:37:10.374Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8275:11)
+    at takeScreenshot (C:\Python\Lib\site-packages\Browser\wrapper\index.js:8314:3)
+    at PlaywrightServer.takeScreenshot (C:\Python\Lib\site-packages\Browser\wrapper\index.js:9984:34)
+    at C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Python\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-09-20T09:37:10.377Z","pid":9472,"hostname":"gOssila","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-09-20T09:37:10.377Z","pid":9472,"hostname":"gOssila","msg":"Error of node method  takeScreenshot"}
+{"level":30,"time":"2023-09-20T09:37:14.504Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:14.504Z","pid":9472,"hostname":"gOssila","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:14.506Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:14.506Z","pid":9472,"hostname":"gOssila","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:14.507Z","pid":9472,"hostname":"gOssila","msg":"Changed active context"}
+{"level":30,"time":"2023-09-20T09:37:14.508Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:14.508Z","pid":9472,"hostname":"gOssila","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:14.509Z","pid":9472,"hostname":"gOssila","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-09-20T09:37:14.509Z","pid":9472,"hostname":"gOssila","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-09-20T09:37:14.510Z","pid":9472,"hostname":"gOssila","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-09-20T09:37:14.510Z","pid":9472,"hostname":"gOssila","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-09-20T09:37:14.512Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:14.512Z","pid":9472,"hostname":"gOssila","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:14.512Z","pid":9472,"hostname":"gOssila","msg":"Changed active context"}
+{"level":30,"time":"2023-09-20T09:37:14.513Z","pid":9472,"hostname":"gOssila","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-09-20T09:37:14.519Z","pid":9472,"hostname":"gOssila","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-09-20T09:37:14.523Z","pid":9472,"hostname":"gOssila","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:14.523Z","pid":9472,"hostname":"gOssila","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-09-20T09:37:14.550Z","pid":9472,"hostname":"gOssila","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-09-20T09:37:14.631Z","pid":9472,"hostname":"gOssila","msg":"End of node method closeAllBrowsers"}

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.4 on win32)" generated="20230920 16:37:00.888" rpa="false" schemaversion="4">
+<suite id="s1" name="AdvanceCase" source="D:\Automate_Training\Robot\TestSuites\Code\AdvanceCase.robot">
+<test id="s1-t1" name="Verify Series Page" line="10">
+<kw name="Open Browser" library="Browser">
+<arg>https://aisplay.ais.co.th/portal/get_section/602b8c522e3c18739a994805/</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Opens a new browser instance. Use this keyword for quick experiments or debugging sessions.</doc>
+<msg timestamp="20230920 16:37:01.555" level="WARN">Open Browser is for quick experimentation and debugging only. Use New Page for production.</msg>
+<msg timestamp="20230920 16:37:01.555" level="INFO">{"browser": "chromium", "headless": false, "devtools": false, "handleSIGHUP": true, "handleSIGINT": true, "handleSIGTERM": true, "slowMo": 0.0, "timeout": 30000.0, "deprecated_pos_args": [], "tracesDir": "D:\\Automate_Training\\Robot\\TestSuites\\Code\\result\\browser\\traces\\29dc6568-18b7-4520-a636-76686f9363d3"}</msg>
+<msg timestamp="20230920 16:37:01.804" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":false,"devtools":false,"handleSIGHUP":true,"handleSIGINT":true,"handleSIGTERM":true,"slowMo":0,"timeout":30000,"deprecated_pos_args":[],"tracesDir":"D:\\Automate_Training\\Robot\\TestSuites\\Code\\result\\browser\\traces\\29dc6568-18b7-4520-a636-76686f9363d3"}</msg>
+<msg timestamp="20230920 16:37:01.804" level="INFO">{
+  "acceptDownloads": true,
+  "bypassCSP": true,
+  "forcedColors": "none",
+  "hideRfBrowser": false,
+  "ignoreHTTPSErrors": false,
+  "javaScriptEnabled": true,
+  "offline": false,
+  "reducedMotion": "no-preference",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "deprecated_pos_args": []
+}</msg>
+<msg timestamp="20230920 16:37:01.820" level="INFO">Successfully created context. </msg>
+<msg timestamp="20230920 16:37:01.820" level="INFO">{'acceptDownloads': True, 'bypassCSP': True, 'forcedColors': 'none', 'hideRfBrowser': False, 'ignoreHTTPSErrors': False, 'javaScriptEnabled': True, 'offline': False, 'reducedMotion': 'no-preference', 'viewport': {'width': 1280, 'height': 720}, 'deprecated_pos_args': []}</msg>
+<msg timestamp="20230920 16:37:03.675" level="INFO">Successfully initialized new page object and opened url: https://aisplay.ais.co.th/portal/get_section/602b8c522e3c18739a994805/</msg>
+<status status="PASS" starttime="20230920 16:37:01.555" endtime="20230920 16:37:03.675"/>
+</kw>
+<kw name="Click" library="Browser">
+<arg>//button[@class="login-type-btn guest"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" starttime="20230920 16:37:03.676" endtime="20230920 16:37:04.731"/>
+</kw>
+<kw name="Click" library="Browser">
+<arg>//button[@class="accept-btn"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" starttime="20230920 16:37:04.732" endtime="20230920 16:37:04.791"/>
+</kw>
+<kw name="Get Elements" library="Browser">
+<var>${ElementEp}</var>
+<arg>//div[@class="container-fluid bg-block py-3 px-3 px-md-5 rounded-bottom-0"]</arg>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns a reference to Playwright [https://playwright.dev/docs/api/class-locator|Locator]
+for all matched elements by ``selector``.</doc>
+<msg timestamp="20230920 16:37:04.804" level="INFO">Found 8 Locators successfully.</msg>
+<msg timestamp="20230920 16:37:04.805" level="INFO">${ElementEp} = ['element=03bcd095-c585-445c-9bfb-67f5746a5e4f', 'element=0aaf2c97-d82e-41d7-a8fd-b405405ed9c5', 'element=b1b98656-d6be-4ce8-bbff-766596f5bc61', 'element=586409f3-4003-48bf-b765-72bd8a3d9b99', 'elemen...</msg>
+<status status="PASS" starttime="20230920 16:37:04.791" endtime="20230920 16:37:04.805"/>
+</kw>
+<kw name="Get Length" library="BuiltIn">
+<var>${LengthEp}</var>
+<arg>${ElementEp}</arg>
+<doc>Returns and logs the length of the given item as an integer.</doc>
+<msg timestamp="20230920 16:37:04.805" level="INFO">Length is 8</msg>
+<msg timestamp="20230920 16:37:04.805" level="INFO">${LengthEp} = 8</msg>
+<status status="PASS" starttime="20230920 16:37:04.805" endtime="20230920 16:37:04.805"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${LengthEp}</arg>
+<arg>console=yes</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230920 16:37:04.806" level="INFO">8</msg>
+<status status="PASS" starttime="20230920 16:37:04.806" endtime="20230920 16:37:04.806"/>
+</kw>
+<for flavor="IN RANGE">
+<var>${index}</var>
+<value>2</value>
+<value>${LengthEp}+2</value>
+<iter>
+<var name="${index}">2</var>
+<kw name="Get Text" library="Browser">
+<var>${ListEp}</var>
+<arg>//div[@class="container-fluid bg-block py-3 px-3 px-md-5 rounded-bottom-0"][${index}]//h2</arg>
+<tag>Assertion</tag>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns text attribute of the element found by ``selector``.</doc>
+<msg timestamp="20230920 16:37:10.376" level="WARN">Keyword 'Take Screenshot  fail-screenshot-{index}' could not be run on failure:
+Error: Tried to take screenshot, but no page was open.</msg>
+<msg timestamp="20230920 16:37:10.376" level="INFO">See also file:///D:/Automate_Training/Robot/TestSuites/Code/result/playwright-log.txt for additional details.</msg>
+<msg timestamp="20230920 16:37:14.494" level="FAIL">Error: Could not find active page</msg>
+<status status="FAIL" starttime="20230920 16:37:04.807" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Convert To Lower Case" library="String">
+<var>${listep}</var>
+<arg>${ListEp}</arg>
+<doc>Converts string to lower case.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Scroll To Element" library="Browser">
+<arg>//section[@id="${listep}"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>This method waits for actionability checks, then tries to scroll element into view,
+unless it is completely visible.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Wait For Elements State" library="Browser">
+<arg>//section[@id="${listep}"]</arg>
+<arg>visible</arg>
+<tag>PageContent</tag>
+<tag>Wait</tag>
+<doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${ListEp}</arg>
+<arg>console=true</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Get Elements" library="Browser">
+<var>${ElementEpi}</var>
+<arg>//section[@id="${listep}"]//div[@class="carousel-card-text-block"]//h3[@class="carousel-card-title"]</arg>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns a reference to Playwright [https://playwright.dev/docs/api/class-locator|Locator]
+for all matched elements by ``selector``.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Get Length" library="BuiltIn">
+<var>${LengthEpi}</var>
+<arg>${ElementEpi}</arg>
+<doc>Returns and logs the length of the given item as an integer.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<for flavor="IN RANGE">
+<var>${index}</var>
+<value>1</value>
+<value>${LengthEpi}+1</value>
+<iter>
+<var name="${index}"/>
+<kw name="Get Text" library="Browser">
+<var>${Episode}</var>
+<arg>//section[@id="${listep}"]//div[@component-key="${index}"]//h3[@class="carousel-card-title"]</arg>
+<tag>Assertion</tag>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns text attribute of the element found by ``selector``.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${Episode}</arg>
+<arg>console=true</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Get Text" library="Browser">
+<var>${view}</var>
+<arg>//section[@id="${listep}"]//div[@component-key="${index}"]//div[@class="text-nowrap ml-auto pr-1 card-thumb-add"]</arg>
+<tag>Assertion</tag>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns text attribute of the element found by ``selector``.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${view}</arg>
+<arg>console=true</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Wait For Elements State" library="Browser">
+<arg>//div[@component-key="${index}"]//div[@title="${Episode}"]//img</arg>
+<arg>visible</arg>
+<tag>PageContent</tag>
+<tag>Wait</tag>
+<doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Wait For Elements State" library="Browser">
+<arg>//div[@component-key="${index}"]//div[@title="${Episode}"]//span[@class="far fa-eye"]</arg>
+<arg>visible</arg>
+<tag>PageContent</tag>
+<tag>Wait</tag>
+<doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Get Text" library="Browser">
+<var>${VideoTime}</var>
+<arg>//div[@component-key="${index}"]//div[@title="${Episode}"]//span[@class="duration-text"]</arg>
+<tag>Assertion</tag>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns text attribute of the element found by ``selector``.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${VideoTime}</arg>
+<arg>console=true</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Should Match Regexp" library="BuiltIn">
+<arg>${VideoTime}</arg>
+<arg>${VerTime}</arg>
+<doc>Fails if ``string`` does not match ``pattern`` as a regular expression.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Should Match Regexp" library="BuiltIn">
+<arg>${view}</arg>
+<arg>${VerVi}</arg>
+<doc>Fails if ``string`` does not match ``pattern`` as a regular expression.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<kw name="Should Match Regexp" library="BuiltIn">
+<arg>${Episode}</arg>
+<arg>${VerEpi}</arg>
+<doc>Fails if ``string`` does not match ``pattern`` as a regular expression.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</iter>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</for>
+<kw name="Should Match Regexp" library="BuiltIn">
+<arg>${ListEp}</arg>
+<arg>${VerEp}</arg>
+<doc>Fails if ``string`` does not match ``pattern`` as a regular expression.</doc>
+<status status="NOT RUN" starttime="20230920 16:37:14.494" endtime="20230920 16:37:14.494"/>
+</kw>
+<status status="FAIL" starttime="20230920 16:37:04.806" endtime="20230920 16:37:14.494"/>
+</iter>
+<status status="FAIL" starttime="20230920 16:37:04.806" endtime="20230920 16:37:14.494"/>
+</for>
+<status status="FAIL" starttime="20230920 16:37:01.555" endtime="20230920 16:37:14.494">Error: Could not find active page</status>
+</test>
+<status status="FAIL" starttime="20230920 16:37:00.888" endtime="20230920 16:37:14.522"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="AdvanceCase">AdvanceCase</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20230920 16:37:01.019" level="ERROR">Error in file 'D:\Automate_Training\Robot\TestSuites\Code\AdvanceCase.robot' on line 6: Resource file 'Variables\variables.robot' does not exist.</msg>
+<msg timestamp="20230920 16:37:01.019" level="ERROR">Error in file 'D:\Automate_Training\Robot\TestSuites\Code\AdvanceCase.robot' on line 7: Resource file 'Variables\keywords.robot' does not exist.</msg>
+<msg timestamp="20230920 16:37:01.555" level="WARN">Open Browser is for quick experimentation and debugging only. Use New Page for production.</msg>
+<msg timestamp="20230920 16:37:10.376" level="WARN">Keyword 'Take Screenshot  fail-screenshot-{index}' could not be run on failure:
+Error: Tried to take screenshot, but no page was open.</msg>
+</errors>
+</robot>

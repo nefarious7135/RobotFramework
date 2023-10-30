@@ -1,0 +1,30 @@
+# Config Run Robot
+LANG : TH   # TH , EN
+run_browser : chromium  # chromium , webkit , firefox
+browser:
+  permissions: camera
+  viewport:
+         width: 1366
+         height: 768
+web:
+  home_ais_play: https://aisplay.ais.co.th/portal/
+  attack_on_titan: https://aisplay.ais.co.th/portal/get_section/5b569d32aae73116236102e5/
+  i_will_knock_you: https://aisplay.ais.co.th/portal/get_section/6368d5947f6d538985a946f1/
+  how_to_be_a_perfect_dad : https://aisplay.ais.co.th/portal/get_section/63635912196737dbad3a83a3/
+
+# Config Timeout
+browser_timeout: 60s
+wait_state_timeout: 15s
+timeout_return: 0.5s
+timeout_1s: 1s
+timeout_2s: 2s
+timeout_3s: 3s
+timeout_5s: 5s
+timeout_100s: 100s
+timeout_120s: 120s
+timeout_200s: 200s
+timeout_300s: 300s
+timeout_500ms: 500ms
+
+
+

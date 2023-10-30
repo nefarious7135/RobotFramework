@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.4 on win32)" generated="20230920 14:30:03.941" rpa="false" schemaversion="4">
+<suite id="s1" name="FOR Loop" source="D:\Automate_Training\Robot\Traning\FOR_Loop.robot">
+<test id="s1-t1" name="Loop Two Lists After Each Other" line="60">
+<for flavor="IN">
+<var>${var}</var>
+<value>@{animal}</value>
+<value>@{birds}</value>
+<iter>
+<var name="${var}">Ant</var>
+<kw name="Log" library="BuiltIn">
+<arg>${var}</arg>
+<arg>console=yes</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230920 14:30:03.999" level="INFO">Ant</msg>
+<status status="PASS" starttime="20230920 14:30:03.999" endtime="20230920 14:30:04.001"/>
+</kw>
+<status status="PASS" starttime="20230920 14:30:03.999" endtime="20230920 14:30:04.001"/>
+</iter>
+<iter>
+<var name="${var}">Cat</var>
+<kw name="Log" library="BuiltIn">
+<arg>${var}</arg>
+<arg>console=yes</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230920 14:30:04.001" level="INFO">Cat</msg>
+<status status="PASS" starttime="20230920 14:30:04.001" endtime="20230920 14:30:04.001"/>
+</kw>
+<status status="PASS" starttime="20230920 14:30:04.001" endtime="20230920 14:30:04.001"/>
+</iter>
+<iter>
+<var name="${var}">Dog</var>
+<kw name="Log" library="BuiltIn">
+<arg>${var}</arg>
+<arg>console=yes</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230920 14:30:04.001" level="INFO">Dog</msg>
+<status status="PASS" starttime="20230920 14:30:04.001" endtime="20230920 14:30:04.005"/>
+</kw>
+<status status="PASS" starttime="20230920 14:30:04.001" endtime="20230920 14:30:04.005"/>
+</iter>
+<iter>
+<var name="${var}">Cow</var>
+<kw name="Log" library="BuiltIn">
+<arg>${var}</arg>
+<arg>console=yes</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230920 14:30:04.005" level="INFO">Cow</msg>
+<status status="PASS" starttime="20230920 14:30:04.005" endtime="20230920 14:30:04.005"/>
+</kw>
+<status status="PASS" starttime="20230920 14:30:04.005" endtime="20230920 14:30:04.005"/>
+</iter>
+<iter>
+<var name="${var}">Eagle</var>
+<kw name="Log" library="BuiltIn">
+<arg>${var}</arg>
+<arg>console=yes</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230920 14:30:04.005" level="INFO">Eagle</msg>
+<status status="PASS" starttime="20230920 14:30:04.005" endtime="20230920 14:30:04.005"/>
+</kw>
+<status status="PASS" starttime="20230920 14:30:04.005" endtime="20230920 14:30:04.005"/>
+</iter>
+<iter>
+<var name="${var}">Falcon</var>
+<kw name="Log" library="BuiltIn">
+<arg>${var}</arg>
+<arg>console=yes</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230920 14:30:04.005" level="INFO">Falcon</msg>
+<status status="PASS" starttime="20230920 14:30:04.005" endtime="20230920 14:30:04.010"/>
+</kw>
+<status status="PASS" starttime="20230920 14:30:04.005" endtime="20230920 14:30:04.010"/>
+</iter>
+<iter>
+<var name="${var}">Ladybird</var>
+<kw name="Log" library="BuiltIn">
+<arg>${var}</arg>
+<arg>console=yes</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230920 14:30:04.010" level="INFO">Ladybird</msg>
+<status status="PASS" starttime="20230920 14:30:04.010" endtime="20230920 14:30:04.010"/>
+</kw>
+<status status="PASS" starttime="20230920 14:30:04.010" endtime="20230920 14:30:04.010"/>
+</iter>
+<status status="PASS" starttime="20230920 14:30:03.997" endtime="20230920 14:30:04.010"/>
+</for>
+<doc>Owner: Kachain.a</doc>
+<tag>ตัวอย่างการใช้งาน</tag>
+<status status="PASS" starttime="20230920 14:30:03.997" endtime="20230920 14:30:04.014"/>
+</test>
+<status status="PASS" starttime="20230920 14:30:03.948" endtime="20230920 14:30:04.017"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0" skip="0">ตัวอย่างการใช้งาน</stat>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="FOR Loop">FOR Loop</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
